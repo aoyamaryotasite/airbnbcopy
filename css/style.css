@@ -406,6 +406,11 @@ border: none;
     transition: transform 200ms ease-in-out, opacity 500ms ease-in-out;
   }
 
+  header{
+  text-align: center;
+  padding-left: 100px;
+  }
+
   #wrapper {
     width: 1200px;
     margin-left: auto;
@@ -416,4 +421,3 @@ border: none;
   border: none;
   }  
 }
-
